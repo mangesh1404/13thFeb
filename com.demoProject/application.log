@@ -1,0 +1,61 @@
+2021-02-07 10:23:56,919  INFO [main] LoginTest:22 - intializing browser
+2021-02-07 10:24:06,610  INFO [main] LoginTest:25 - chrome browser opened
+2021-02-07 10:24:10,536  INFO [main] LoginTest:27 - JBK offline application launched
+2021-02-07 10:24:10,609  INFO [main] LoginTest:30 - all webElements initialized
+2021-02-07 10:24:10,679  INFO [main] LoginTest:48 - user logging in with invalid credentials
+2021-02-07 10:24:13,366  INFO [main] LoginTest:50 - user will bot logged in to the application
+2021-02-07 10:24:13,462  INFO [main] LoginTest:34 - closing the browser
+2021-02-07 10:24:14,169  INFO [main] LoginTest:22 - intializing browser
+2021-02-07 10:24:18,884  INFO [main] LoginTest:25 - chrome browser opened
+2021-02-07 10:24:23,091  INFO [main] LoginTest:27 - JBK offline application launched
+2021-02-07 10:24:23,092  INFO [main] LoginTest:30 - all webElements initialized
+2021-02-07 10:24:23,098  INFO [main] LoginTest:39 - logging in to the JBK application
+2021-02-07 10:24:23,956  INFO [main] LoginTest:43 - user logged in to the JBK application
+2021-02-07 10:24:23,961  INFO [main] LoginTest:34 - closing the browser
+2021-02-07 10:27:26,699  INFO [main] LoginTest:22 - intializing browser
+2021-02-07 10:27:35,518  INFO [main] LoginTest:25 - chrome browser opened
+2021-02-07 10:27:39,185  INFO [main] LoginTest:27 - JBK offline application launched
+2021-02-07 10:27:39,276  INFO [main] LoginTest:30 - all webElements initialized
+2021-02-07 10:27:39,312  INFO [main] LoginTest:48 - user logging in with invalid credentials
+2021-02-07 10:27:41,909  INFO [main] LoginTest:50 - user will bot logged in to the application
+2021-02-07 10:27:41,954  INFO [main] LoginTest:34 - closing the browser
+2021-02-07 10:27:42,469  INFO [main] LoginTest:22 - intializing browser
+2021-02-07 10:27:46,565  INFO [main] LoginTest:25 - chrome browser opened
+2021-02-07 10:27:49,512  INFO [main] LoginTest:27 - JBK offline application launched
+2021-02-07 10:27:49,513  INFO [main] LoginTest:30 - all webElements initialized
+2021-02-07 10:27:49,516  INFO [main] LoginTest:39 - logging in to the JBK application
+2021-02-07 10:27:50,249  INFO [main] LoginTest:43 - user logged in to the JBK application
+2021-02-07 10:27:50,256  INFO [main] LoginTest:34 - closing the browser
+2021-02-07 10:29:30,931  INFO [main] LoginTest:22 - --------------------------------------
+2021-02-07 10:29:30,957  INFO [main] LoginTest:23 - intializing browser
+2021-02-07 10:29:39,507  INFO [main] LoginTest:26 - chrome browser opened
+2021-02-07 10:29:42,703  INFO [main] LoginTest:28 - JBK offline application launched
+2021-02-07 10:29:42,809  INFO [main] LoginTest:31 - all webElements initialized
+2021-02-07 10:29:42,827  INFO [main] LoginTest:49 - user logging in with invalid credentials
+2021-02-07 10:29:45,176  INFO [main] LoginTest:51 - user will bot logged in to the application
+2021-02-07 10:29:45,215  INFO [main] LoginTest:35 - closing the browser
+2021-02-07 10:29:45,718  INFO [main] LoginTest:22 - --------------------------------------
+2021-02-07 10:29:45,718  INFO [main] LoginTest:23 - intializing browser
+2021-02-07 10:29:49,493  INFO [main] LoginTest:26 - chrome browser opened
+2021-02-07 10:29:51,044  INFO [main] LoginTest:28 - JBK offline application launched
+2021-02-07 10:29:51,045  INFO [main] LoginTest:31 - all webElements initialized
+2021-02-07 10:29:51,047  INFO [main] LoginTest:40 - logging in to the JBK application
+2021-02-07 10:29:52,156  INFO [main] LoginTest:44 - user logged in to the JBK application
+2021-02-07 10:29:52,161  INFO [main] LoginTest:35 - closing the browser
+2021-02-07 10:37:36,920  INFO [main] LoginTest:22 - --------------------------------------
+2021-02-07 10:37:36,933  INFO [main] LoginTest:23 - intializing browser
+2021-02-07 10:37:46,201  INFO [main] LoginTest:26 - chrome browser opened
+2021-02-07 10:37:49,667  INFO [main] LoginTest:28 - JBK offline application launched
+2021-02-07 10:37:49,746  INFO [main] LoginTest:31 - all webElements initialized
+2021-02-07 10:37:49,784  INFO [main] LoginTest:50 - user logging in with invalid credentials
+2021-02-07 10:37:52,435  INFO [main] LoginTest:52 - user will bot logged in to the application
+2021-02-07 10:37:52,520  INFO [main] LoginTest:35 - closing the browser
+2021-02-07 10:37:52,897  INFO [main] LoginTest:22 - --------------------------------------
+2021-02-07 10:37:52,902  INFO [main] LoginTest:23 - intializing browser
+2021-02-07 10:37:57,855  INFO [main] LoginTest:26 - chrome browser opened
+2021-02-07 10:37:59,885  INFO [main] LoginTest:28 - JBK offline application launched
+2021-02-07 10:37:59,886  INFO [main] LoginTest:31 - all webElements initialized
+2021-02-07 10:37:59,891  INFO [main] LoginTest:40 - logging in to the JBK application
+2021-02-07 10:37:59,892  WARN [main] LoginTest:41 - do not enter numric username
+2021-02-07 10:38:00,965  INFO [main] LoginTest:45 - user logged in to the JBK application
+2021-02-07 10:38:00,974  INFO [main] LoginTest:35 - closing the browser
