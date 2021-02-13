@@ -5,6 +5,7 @@
 	<test name="LoginModule">
 		<classes>
 			<class name="POMDemo.LoginTest" />
+			<class name="POMDemo.Dashboardtest"/>
 		</classes>
 	</test>
 </suite>
