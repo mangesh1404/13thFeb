@@ -50,7 +50,7 @@ public class LoginTest {
 		log.info("user logging in with invalid credentials");
 		lp.ValidLogin();
 		log.info("user will bot logged in to the application");
-		Assert.assertEquals(driver.getTitle(),"abc");
+		Assert.assertEquals(driver.getTitle(),"JavaByKiran | Dashboard");
 	}
 
 	
