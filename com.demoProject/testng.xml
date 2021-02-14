@@ -6,7 +6,7 @@
 		<classes>
 			<class name="POMDemo.LoginTest" />
 			<class name="POMDemo.Dashboardtest"/>
-			<class name= "POMDemo.UserPageTest"/>
+			
 		</classes>
 	</test>
 </suite>
