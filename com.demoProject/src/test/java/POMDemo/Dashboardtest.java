@@ -2,6 +2,7 @@ package POMDemo;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
@@ -10,7 +11,7 @@ public class Dashboardtest {
 	WebDriver driver;
 	LoginPage lp;
 	DashboardPage dp;
-	@BeforeMethod
+	@BeforeClass
 	public void setUp() {
 		System.setProperty("webdriver.chrome.drive", "D:/chromedriver.exe");
 		driver = new ChromeDriver();
